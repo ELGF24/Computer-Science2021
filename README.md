@@ -1,7 +1,7 @@
 # Computer-Science2021
 Here we'll be sharing some CS projects
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">Engineer</h3>
+<h3 align="center">Mechatronics Engineer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
